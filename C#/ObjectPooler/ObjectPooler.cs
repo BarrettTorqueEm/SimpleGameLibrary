@@ -16,7 +16,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Triad.ObjectPooler {
+namespace SGLSharp {
     public class ObjectPooler {
         private Dictionary<string, Stack<IPoolable>> poolDictionary = new Dictionary<string, Stack<IPoolable>>();
 

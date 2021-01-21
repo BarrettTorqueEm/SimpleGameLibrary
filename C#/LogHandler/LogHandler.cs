@@ -16,8 +16,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Triad.Utilities {
-    
+namespace SGLSharp{
     public static class LogHandler {
         public enum LogLevel {
             Debug,

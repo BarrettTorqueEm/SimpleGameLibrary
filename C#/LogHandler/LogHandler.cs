@@ -17,15 +17,16 @@ using System.IO;
 using System.Text;
 
 namespace Triad.Utilities {
-    public enum LogLevel {
-        Debug,
-        Info,
-        Warning,
-        Error,
-        Fatal,
-    }
     
     public static class LogHandler {
+        public enum LogLevel {
+            Debug,
+            Info,
+            Warning,
+            Error,
+            Fatal,
+        }
+
         private static FileStream fs;
 
         /// <summary>

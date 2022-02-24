@@ -17,10 +17,8 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace SGLSharp
-{
-	public class ObjectPooler
-	{
+namespace SGLSharp {
+	public class ObjectPooler {
 		private Dictionary<string, Stack<IPoolable>> poolDictionary = new Dictionary<string, Stack<IPoolable>>();
 
 		///<summary>
@@ -29,16 +27,13 @@ namespace SGLSharp
 		///<param name="Item"> Item returned from the pool if successful.</param>
 		///<returns>Item retreved from the pool.</returns>
 		///</summary>
-		public bool TryGetFromPool(string ID, out IPoolable Item)
-		{
-			if (poolDictionary[ID].Count == 0)
-			{
+		public bool TryGetFromPool(string ID, out IPoolable Item) {
+			if (poolDictionary[ID].Count == 0) {
 				Item = null;
 				return false;
 			}
 
-			if (!poolDictionary.ContainsKey(ID))
-			{
+			if (!poolDictionary.ContainsKey(ID)) {
 				LogHandler.LogMessage(LogHandler.LogLevel.Warning, "ObjectPooler.cs", $"Pool with ID {ID} doesn't exist.");
 				Item = null;
 				return false;
@@ -54,12 +49,9 @@ namespace SGLSharp
 		///<param name="ID"> Id of the pool you wish to add to.</param>
 		///<param name="Item"> Item to be added to the pool.</param>
 		///</summary>
-		public void AddToPool(string ID, IPoolable Item)
-		{
-			if (Item.OnEnpool())
-			{
-				if (!poolDictionary.ContainsKey(ID))
-				{
+		public void AddToPool(string ID, IPoolable Item) {
+			if (Item.OnEnpool()) {
+				if (!poolDictionary.ContainsKey(ID)) {
 					poolDictionary.Add(ID, new Stack<IPoolable>());
 				}
 				poolDictionary[ID].Push(Item);
@@ -69,8 +61,7 @@ namespace SGLSharp
 		///<summary>
 		///<returns> List of all keys in the dictionary.</reutrns>
 		///</summary>
-		public string[] ListPools()
-		{
+		public string[] ListPools() {
 			return poolDictionary.Keys.ToArray();
 		}
 
@@ -78,10 +69,8 @@ namespace SGLSharp
 		///Removes entire pool by <paramref name="ID">
 		///<param name="ID"> ID of the pool you with to remove.</param>
 		///</summary>
-		public void RemovePool(string ID)
-		{
-			if (poolDictionary.ContainsKey(ID))
-			{
+		public void RemovePool(string ID) {
+			if (poolDictionary.ContainsKey(ID)) {
 				poolDictionary.Remove(ID);
 			}
 		}

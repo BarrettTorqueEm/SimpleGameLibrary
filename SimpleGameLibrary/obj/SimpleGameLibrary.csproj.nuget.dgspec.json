@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/SimpleGameLibrary.csproj": {}
+    "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {}
   },
   "projects": {
-    "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/SimpleGameLibrary.csproj": {
+    "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/SimpleGameLibrary.csproj",
+        "projectUniqueName": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
         "projectName": "SimpleGameLibrary",
-        "projectPath": "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/SimpleGameLibrary.csproj",
-        "packagesPath": "/Users/girardmw/.nuget/packages/",
-        "outputPath": "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/obj/",
+        "projectPath": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/girardmw/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net3.5"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net35": {
+            "targetAlias": "net3.5",
             "projectReferences": {}
           }
         },
@@ -35,24 +35,17 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+        "net35": {
+          "targetAlias": "net3.5",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

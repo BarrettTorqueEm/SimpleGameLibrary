@@ -1,0 +1,15 @@
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.csproj.AssemblyReference.cache
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.AssemblyInfoInputs.cache
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.AssemblyInfo.cs
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.csproj.CoreCompileInputs.cache
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\ref\SimpleGameLibrary.dll
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\SimpleGameLibrary.deps.json
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\SimpleGameLibrary.dll
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\ref\SimpleGameLibrary.dll
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\SimpleGameLibrary.pdb
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\UnityEngine.dll
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net6.0\UnityEngine.xml
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.csproj.CopyComplete
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.dll
+B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net6.0\SimpleGameLibrary.pdb

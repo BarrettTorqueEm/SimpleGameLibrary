@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dmcEbKMJRr844VwtHF9/iXOJoYKF+WqaKaE6CACdg9nEJXAXkM9XTkA9HSohRwt2L4kvrrNFkjW2snTWQ2w3mw==",
+  "dgSpecHash": "iq089zABHwBSOP/Xd33g4xkBnE/oy0HMtRBWtFiiB/1eQpmZjCyZTg0QqFOS6IDFbNW7hKy17mFpGpXzH3JPQg==",
   "success": true,
-  "projectFilePath": "/Users/girardmw/Projects/SimpleGameLibrary/SimpleGameLibrary/SimpleGameLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net35\\1.0.2\\microsoft.netframework.referenceassemblies.net35.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

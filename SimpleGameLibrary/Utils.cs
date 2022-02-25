@@ -36,9 +36,9 @@ namespace SGLSharp {
 					if (instances.Length == 1) {
 						instance = instances[0];
 					} else if (instances.Length > 1) {
-						Debug.LogError(typeof(T) + ": There is more than 1 instance in the scene.");
+						LogHandler.LogMessage(LogHandler.LogLevel.Error, T, typeof(T) + ": There is more than 1 instance in the scene.");
 					} else {
-						Debug.LogError(typeof(T) + ": Instance doesn't exist in the scene.");
+						LogHandler.LogMessage(LogHandler.LogLevel.Error, T, typeof(T) + ": Instance doesn't exist in the scene.");
 					}
 				}
 				return instance;

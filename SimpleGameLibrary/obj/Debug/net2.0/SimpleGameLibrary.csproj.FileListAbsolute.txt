@@ -1,5 +1,0 @@
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net2.0\SimpleGameLibrary.csproj.AssemblyReference.cache
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net2.0\SimpleGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net2.0\SimpleGameLibrary.AssemblyInfoInputs.cache
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net2.0\SimpleGameLibrary.AssemblyInfo.cs
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net2.0\SimpleGameLibrary.csproj.CoreCompileInputs.cache

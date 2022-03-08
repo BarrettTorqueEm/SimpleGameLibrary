@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {}
+    "D:\\Developer\\GithubForks\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {}
   },
   "projects": {
-    "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {
+    "D:\\Developer\\GithubForks\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
+        "projectUniqueName": "D:\\Developer\\GithubForks\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
         "projectName": "SimpleGameLibrary",
-        "projectPath": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "B:\\Projects\\SimpleGameLibrary\\SimpleGameLibrary\\obj\\",
+        "projectPath": "D:\\Developer\\GithubForks\\SimpleGameLibrary\\SimpleGameLibrary\\SimpleGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\devon\\.nuget\\packages\\",
+        "outputPath": "D:\\Developer\\GithubForks\\SimpleGameLibrary\\SimpleGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\devon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net3.5"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +51,7 @@
               "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

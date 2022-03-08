@@ -1,12 +1,5 @@
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.csproj.AssemblyReference.cache
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.AssemblyInfoInputs.cache
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.AssemblyInfo.cs
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.csproj.CoreCompileInputs.cache
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net3.5\SimpleGameLibrary.dll
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net3.5\SimpleGameLibrary.pdb
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net3.5\UnityEngine.dll
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\bin\Debug\net3.5\UnityEngine.xml
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.csproj.CopyComplete
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.dll
-B:\Projects\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.pdb
+D:\Developer\GithubForks\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.csproj.AssemblyReference.cache
+D:\Developer\GithubForks\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\GithubForks\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.AssemblyInfoInputs.cache
+D:\Developer\GithubForks\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.AssemblyInfo.cs
+D:\Developer\GithubForks\SimpleGameLibrary\SimpleGameLibrary\obj\Debug\net3.5\SimpleGameLibrary.csproj.CoreCompileInputs.cache

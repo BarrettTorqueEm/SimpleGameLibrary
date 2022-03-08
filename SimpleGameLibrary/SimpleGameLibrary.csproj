@@ -7,9 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="UnityEngine">
+    <!-- <Reference Include="UnityEngine">
       <HintPath>B:\Unity Installs\2020.3.25f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>UnityEngine.dll</HintPath>
     </Reference>
-  </ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\UnityLinraries\*.dll</HintPath>
+    </Reference> -->
 
+    <Reference Include="UnityAssemblies\*.dll" />
+  </ItemGroup>
 </Project>
